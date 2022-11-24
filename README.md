@@ -12,27 +12,28 @@
     gcc -c main_test.c -o main.o
   ```
   
-   Alternatively, to compile the benchmark files, run:
+Alternatively, to compile the benchmark files, run:
    
   ```sh
       gcc -c main_b_time_iterative.c -o main.o
   ```   
-   or
+or
    
   ```sh
       gcc -c main_b_time_recursive.c -o main.o
   ```
-   or
+or
    
   ```sh
       gcc -c main_b_space_iterative.c -o main.o
   ```
-   or
+or
    
   ```sh
       gcc -c main_b_space_recursive.c.c -o main.o
   ```
 
+note: To benchmark the memory space taken, open task manager (windows) or system monitor (linux) after running the main.out file. Don't forget to terminate the program by pressing ctrl + c in the command line or just end task the program in task manager.
 
 
 3. Finally, to compile the code to get the main.out (for linux), run:
@@ -44,3 +45,4 @@
     ```
       run.bat
     ```
+   after changing main_test in line 2 to the file you want to compile
