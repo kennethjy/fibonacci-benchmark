@@ -32,11 +32,11 @@
   ```
 
 3. Finally, to compile the code to get the main.out (for linux), run:
-     ```sh
+  ```sh
        gcc -o main.out main.o mylib.o
-     ```
+  ```
 
    For windows, get the main.exe file by running:
-     ```sh
+  ```sh
        gcc -o main.exe main.o mylib.o
-     ```
+  ```
