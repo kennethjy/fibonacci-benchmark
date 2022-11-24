@@ -6,7 +6,7 @@
   ```
  
 2. After that, to compile the main test code, run:
-  ```sh
+  ```
     gcc -c main_test.c -o main.o
   ```
   
