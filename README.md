@@ -40,7 +40,7 @@
        gcc -o main.out main.o mylib.o
   ```
 
-   For windows, get the main.exe file by running:
-  ```sh
-       gcc -o main.exe main.o mylib.o
-  ```
+   For windows, skip all the above steps and just run 
+    ```
+      run.bat
+    ```
