@@ -11,24 +11,25 @@
   ```
   
    Alternatively, to compile the benchmark files, run:
-    ```
+   
+  ```
       gcc -c main_b_time_iterative.c -o main.o
-    ```   
+  ```   
    or
    
-    ```
+  ```
       gcc -c main_b_time_recursive.c -o main.o
-    ```
+  ```
    or
    
-    ```
+  ```
       gcc -c main_b_space_iterative.c -o main.o
-    ```
+  ```
    or
    
-    ```
+  ```
       gcc -c main_b_space_recursive.c.c -o main.o
-    ```
+  ```
 
 3. Finally, to compile the code to get the main.out (for linux), run:
      ```sh
