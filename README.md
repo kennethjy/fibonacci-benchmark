@@ -62,9 +62,11 @@ As shown in the two pictures, the iterative function takes much less time than t
 Space comparison:
 
 Iterative
+
 ![Time taken for main_b_space_iterative.c](./space-iterative.png)
 
 Recursive
+
 ![Time taken for main_b_space_recursive.c](./space-recursive.png)
 
 As shown in the two pictures, the iterative function takes much less memory than the recursive function
