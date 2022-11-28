@@ -49,5 +49,6 @@ note: To benchmark the memory space taken, open task manager (windows) or system
 
 # Documentation
 Time comparison:
+
 Iterative
-(./time-iterative.png)
+![Time taken for main_b_time_iterative.c](./time-iterative.png)
