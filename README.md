@@ -52,3 +52,5 @@ Time comparison:
 
 Iterative
 ![Time taken for main_b_time_iterative.c](./time-iterative.png)
+
+Recursive![Time taken for main_b_time_recursive.c](./time-recursive.png)
