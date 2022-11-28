@@ -48,4 +48,6 @@ note: To benchmark the memory space taken, open task manager (windows) or system
    after changing main_test in line 2 to the file you want to compile
 
 # Documentation
-Ehh, i'll do this later
+Time comparison:
+Iterative
+(./time-iterative.png)
