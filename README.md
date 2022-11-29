@@ -51,10 +51,11 @@ note: To benchmark the memory space taken, open task manager (windows) or system
 Time comparison:
 
 Iterative
-![Time taken for main_b_time_iterative.c](./time-iterative.png)
+![time-iterative](https://user-images.githubusercontent.com/114073455/204568043-013bf339-4843-41b4-a698-9b0368c9d4e1.png)
 
 Recursive
-![Time taken for main_b_time_recursive.c](./time-recursive.png)
+![time-recursive](https://user-images.githubusercontent.com/114073455/204568169-c620f177-2b76-4d6d-a2fc-3c7608e41a03.png)
+
 
 As shown in the two pictures, the iterative function takes much less time than the recursive function
 
@@ -63,11 +64,12 @@ Space comparison:
 
 Iterative
 
-![Time taken for main_b_space_iterative.c](./space-iterative.png)
+![space-iterative](https://user-images.githubusercontent.com/114073455/204568225-07ccd588-cac4-4539-98c0-b3972c923db3.png)
+
 
 Recursive
+![space-recursive](https://user-images.githubusercontent.com/114073455/204568279-3ab58f53-d93c-4e3e-ac2f-5c8e539f9388.png)
 
-![Time taken for main_b_space_recursive.c](./space-recursive.png)
 
 As shown in the two pictures, the iterative function takes much less memory than the recursive function
 
